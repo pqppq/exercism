@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+/Users/yutatsu/Exercism/haskell/crypto-square/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/Paths_crypto_square.hs:
+  hash: 71bb954ed51d58cf6f6b4e9fb3e781c7c065a22b7fa27d5fdd507bd9ffa20d11
+/Users/yutatsu/Exercism/haskell/crypto-square/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/cabal_macros.h:
+  hash: 2331572fc5b6a0e3d915198135ce1eb94e63c40f5acf58eb4b009b812cb535e3
+/Users/yutatsu/Exercism/haskell/crypto-square/crypto-square.cabal:
+  hash: b785c7384850e20cab0b09e3dfe63d543b91f487ff0449351a67825216b20dbd
+/Users/yutatsu/Exercism/haskell/crypto-square/package.yaml:
+  hash: c7534c110e96488e2ea59c70f6a3b1330f21f27df83f340bba55ff9e98531f2b
+/Users/yutatsu/Exercism/haskell/crypto-square/test/Tests.hs:
+  hash: 8b3db1a6cf64a7ce8f3724459de715a14f8866155138df233a49ba995adce01b

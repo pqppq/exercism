@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/aarch64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/yutatsu/Exercism/haskell/hello-world/.stack-work/dist/aarch64-osx/ghc-9.2.7/build/autogen/Paths_hello_world.hs:
+  hash: 9d0e7a01591324558b9fde12c1b58c4ca30df5bfecfacff8779a4d34ee659a9c
+/Users/yutatsu/Exercism/haskell/hello-world/.stack-work/dist/aarch64-osx/ghc-9.2.7/build/autogen/cabal_macros.h:
+  hash: 288cbd1047803108c8813b271bae770e93e6dd2450f3bef031ec4d6d477e8da6
+/Users/yutatsu/Exercism/haskell/hello-world/hello-world.cabal:
+  hash: d89cf13da884ab313a18371ece5b70a793e35a336248fc8ba54c81df0a0f7ecd
+/Users/yutatsu/Exercism/haskell/hello-world/package.yaml:
+  hash: 160a1a88b7a5bd0f6f1ffd3e24f56cbba5e4d4fbd7f76ea73d649199ca9d76a5
+/Users/yutatsu/Exercism/haskell/hello-world/src/HelloWorld.hs:
+  hash: dfbdf72c11f74aa566e8a44c61ff7ccd5133daed816f1d30a5c221eaf5362e46

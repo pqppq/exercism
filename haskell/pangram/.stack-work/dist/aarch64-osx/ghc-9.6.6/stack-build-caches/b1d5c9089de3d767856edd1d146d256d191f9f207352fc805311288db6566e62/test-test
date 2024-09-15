@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+/Users/yutatsu/Exercism/haskell/pangram/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/Paths_pangram.hs:
+  hash: f74827368e65b6ca0a2c73245623e3e038a02dce9581ee15ee1e7e728ce7aa8e
+/Users/yutatsu/Exercism/haskell/pangram/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/cabal_macros.h:
+  hash: 6a862d75ff4942d6e4c1f19eba8a468e33143b0e595b87654ad47ae5c19ecc28
+/Users/yutatsu/Exercism/haskell/pangram/package.yaml:
+  hash: bb27d54d44cd13fe87455b5f8fd55fcdc631b7678fdfb9ba651bfc6b3c72d5ae
+/Users/yutatsu/Exercism/haskell/pangram/pangram.cabal:
+  hash: e5e886b5f6bd0d6d02fbdb476bd8be3fe049159dbd5f2e084f317d4da1047cb5
+/Users/yutatsu/Exercism/haskell/pangram/test/Tests.hs:
+  hash: 55929c84426c40df7d6f58021f7d8521a3e0a66b5dd5059fba0f7152e11ad65b

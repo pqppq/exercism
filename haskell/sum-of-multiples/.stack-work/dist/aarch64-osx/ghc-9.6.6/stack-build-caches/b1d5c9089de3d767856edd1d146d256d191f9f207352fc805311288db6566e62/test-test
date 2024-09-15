@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+? /Users/yutatsu/Exercism/haskell/sum-of-multiples/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/Paths_sum_of_multiples.hs
+: hash: 3a8929145b1a70ba9e5755c1782a57e59e8d3c0c1c67d658f37e11dd1b0e6c50
+/Users/yutatsu/Exercism/haskell/sum-of-multiples/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/cabal_macros.h:
+  hash: 8bb8a94a1d93f3f36d47e5b0eb1319022f60bcb6ff0ef8197b5c4fed95601563
+/Users/yutatsu/Exercism/haskell/sum-of-multiples/package.yaml:
+  hash: b0245edaf4cdf6c00e91390f508defb05ee30791fa9027306d8f75fd057f58c8
+/Users/yutatsu/Exercism/haskell/sum-of-multiples/sum-of-multiples.cabal:
+  hash: 0ab404341bd4556c44d1184e8ce0da8b98b400a65d5eac5f593f162d6182547b
+/Users/yutatsu/Exercism/haskell/sum-of-multiples/test/Tests.hs:
+  hash: 81f3323a681af4ad8d0606460584314dc30a06ba3a19af8e15836dc10c29583c

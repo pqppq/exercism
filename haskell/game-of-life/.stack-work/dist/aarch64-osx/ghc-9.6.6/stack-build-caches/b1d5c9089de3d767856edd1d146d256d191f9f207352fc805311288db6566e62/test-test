@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+/Users/yutatsu/Exercism/haskell/game-of-life/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/Paths_game_of_life.hs:
+  hash: 99e899ec3a73d7a132217688c1d84c390110b852866fa8ce6b8105070bfffea4
+/Users/yutatsu/Exercism/haskell/game-of-life/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/cabal_macros.h:
+  hash: f28ae9879e79a4100731a0890ac5861a04813c6874e435e9e3fd38b89d8bda50
+/Users/yutatsu/Exercism/haskell/game-of-life/game-of-life.cabal:
+  hash: 60b8a9e9792ac8784baf2b9d72faeb69df7dfd32361ba728227032551c9e892a
+/Users/yutatsu/Exercism/haskell/game-of-life/package.yaml:
+  hash: fa4200f5ebdc04953bb7c346b06fd4a45cf197a2573d9457e224927a12480133
+/Users/yutatsu/Exercism/haskell/game-of-life/test/Tests.hs:
+  hash: 780452c6cab1a3b97a2cb598a5bd8e4884fc8dec52389b9e349c11258fb8ccaa

@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+/Users/yutatsu/Exercism/haskell/reverse-string/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/Paths_reverse_string.hs:
+  hash: 7bf912666c3fa7c3fdd2ddd91f3704a792d10644024b3333342599e69d85efcf
+/Users/yutatsu/Exercism/haskell/reverse-string/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/cabal_macros.h:
+  hash: eb2bde16572d8e327c84453b49a4426859e98dfa64aaad28a970c8e70ce31019
+/Users/yutatsu/Exercism/haskell/reverse-string/package.yaml:
+  hash: b890e1480b3250833d7ab93c04b7bd4033e0b9cbfeb80993edf2f6d8ec141585
+/Users/yutatsu/Exercism/haskell/reverse-string/reverse-string.cabal:
+  hash: e9a650177b3ad811f2363139dbf9b2d5682051c002d3b5c372ebfefe80593fef
+/Users/yutatsu/Exercism/haskell/reverse-string/test/Tests.hs:
+  hash: eebd1102b600e9983bfbfb9f06c9ca3ce3f8cb206d758c7ef4f12fd9b650b1c2

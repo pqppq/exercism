@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+/Users/yutatsu/Exercism/haskell/space-age/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/Paths_space_age.hs:
+  hash: 079eaff326c95057bfa9c3506e9d5faa489013033050e4c82d998a90315492cb
+/Users/yutatsu/Exercism/haskell/space-age/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/test/autogen/cabal_macros.h:
+  hash: 7f7e278212be39d81ee5d1e7ee68938d50a6e0531703ff7577a3f766bfc9ba55
+/Users/yutatsu/Exercism/haskell/space-age/package.yaml:
+  hash: d8dbdf4247d1f13fc1acdd3b68d702ceb46403e97b81ac10decfe16dc11cdfee
+/Users/yutatsu/Exercism/haskell/space-age/space-age.cabal:
+  hash: 766d0512c3d536271a27fbdc230791230ba16fbd70c8570b77dc489077d701f3
+/Users/yutatsu/Exercism/haskell/space-age/test/Tests.hs:
+  hash: 51cc27579d67c36f9fc8d3d5bc769ebd921ea607200bf44335d912bf9465ae99

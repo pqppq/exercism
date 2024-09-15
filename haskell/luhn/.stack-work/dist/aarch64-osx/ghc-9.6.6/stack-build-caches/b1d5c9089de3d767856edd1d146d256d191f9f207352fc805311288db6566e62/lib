@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+/Users/yutatsu/Exercism/haskell/luhn/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/Paths_luhn.hs:
+  hash: 24861b8f96fb8fccd272234ec363d3bf19ca2b4902dee4635da6af1b43e694c6
+/Users/yutatsu/Exercism/haskell/luhn/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/cabal_macros.h:
+  hash: 1db3d8248f875c2d77e3974fdac5378e3189c0979d1372b746c18be7318eb29b
+/Users/yutatsu/Exercism/haskell/luhn/luhn.cabal:
+  hash: 550fd9dcdebec086761f9cc48f83f2d0de198b57d932002e94321fbc9f8a5671
+/Users/yutatsu/Exercism/haskell/luhn/package.yaml:
+  hash: 27d882b43e86024813dd5f129d5b684114604885a57e6f38e14ccf9a1113b053
+/Users/yutatsu/Exercism/haskell/luhn/src/Luhn.hs:
+  hash: 8e6c602af6fe25a0075d23eb2a71e3e76278ac0d97c38be7e5655805021230ea

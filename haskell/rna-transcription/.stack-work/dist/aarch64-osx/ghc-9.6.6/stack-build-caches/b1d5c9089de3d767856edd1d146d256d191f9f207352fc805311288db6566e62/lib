@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+? /Users/yutatsu/Exercism/haskell/rna-transcription/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/Paths_rna_transcription.hs
+: hash: 1653e0c861b66d4e364b9b31d00466dd35c33c451a72053117cf4ed991c66435
+/Users/yutatsu/Exercism/haskell/rna-transcription/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/cabal_macros.h:
+  hash: 0fc1e072956052f0e49fff5601b36435fa48fb4f3bb0839451acf973e8c03cdf
+/Users/yutatsu/Exercism/haskell/rna-transcription/package.yaml:
+  hash: 2766671ccd85c1d682ec62ec3163fcf738c20004e444c5dceb6a3207c15c6dca
+/Users/yutatsu/Exercism/haskell/rna-transcription/rna-transcription.cabal:
+  hash: 103af1d26ab136eda49f62fbcb8886bd4558c2b3ed1d6bde9792325a1728a07d
+/Users/yutatsu/Exercism/haskell/rna-transcription/src/DNA.hs:
+  hash: 7a064eaacf085753af41cf4c9c56fe2a87013e9086632218b323eb6941c022b6

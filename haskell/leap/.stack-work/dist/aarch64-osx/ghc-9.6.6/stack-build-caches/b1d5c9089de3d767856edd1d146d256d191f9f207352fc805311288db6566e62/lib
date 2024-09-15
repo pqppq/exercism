@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+/Users/yutatsu/Exercism/haskell/leap/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/Paths_leap.hs:
+  hash: ad7a8314872fd06b55075c05a28c70664488093887bbd0820cb03860e1f113fa
+/Users/yutatsu/Exercism/haskell/leap/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/cabal_macros.h:
+  hash: 8a2fc8966b2570c211c6d769e9dc030a93a7acead59f1359869b367ddbcd5f64
+/Users/yutatsu/Exercism/haskell/leap/leap.cabal:
+  hash: 92d2dc1c77ca2922f3afe23222da0d47dd8a56eea4fa0b425fef3e5cf09efab8
+/Users/yutatsu/Exercism/haskell/leap/package.yaml:
+  hash: 741adae21e7fab15e96ec98d318f3ec9cbc33dc86f419cd56cd829d6c64a1c54
+/Users/yutatsu/Exercism/haskell/leap/src/LeapYear.hs:
+  hash: ea83727001953fc84a752156394b7db8e4eb11a76be50cb46ac33df51e325acf

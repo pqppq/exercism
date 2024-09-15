@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+/Users/yutatsu/Exercism/haskell/bob/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/Paths_bob.hs:
+  hash: 5385c14be3893dcde2aad9e5d84382e39dd6825ff534335c387ca101c9e540c7
+/Users/yutatsu/Exercism/haskell/bob/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/cabal_macros.h:
+  hash: c141acb908b9a2b3d6f1af274f0031289d35943325c32140fb1e35895fbd4af8
+/Users/yutatsu/Exercism/haskell/bob/bob.cabal:
+  hash: db1ed7d5a56fe181621e81aedf4bb639d727efe6a9b87fd2b8f81debae9c8a9f
+/Users/yutatsu/Exercism/haskell/bob/package.yaml:
+  hash: fdbe34943408486a1bea988085ad4b25d582690cac37d8a14acf12386796af4d
+/Users/yutatsu/Exercism/haskell/bob/src/Bob.hs:
+  hash: 0af28d7afe336ebcafae6846d316839805f189c330f39ef8d2726664b33501c4

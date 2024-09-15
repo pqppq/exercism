@@ -1,0 +1,12 @@
+/Users/yutatsu/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+/Users/yutatsu/Exercism/haskell/nucleotide-count/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/Paths_nucleotide_count.hs:
+  hash: 707c84aa76ded9382b2b39607d7d8b4994d944f8736372af652dd99439dad270
+/Users/yutatsu/Exercism/haskell/nucleotide-count/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/cabal_macros.h:
+  hash: 11d1883aa85f6d949d5f7c05886c01ec76f58ec8c147c7e7502f49b39eaa427d
+/Users/yutatsu/Exercism/haskell/nucleotide-count/nucleotide-count.cabal:
+  hash: 1d3b6f368625eae1c9c6ae344690fecc783edf10ffae6ca3f6bea22db86e709e
+/Users/yutatsu/Exercism/haskell/nucleotide-count/package.yaml:
+  hash: a9addd79532906f9ac795239d06df65176d38dadf35821e65efed3b7d93b19da
+/Users/yutatsu/Exercism/haskell/nucleotide-count/src/DNA.hs:
+  hash: fad85274826c2585d87ccb7be777f4c8970db19459cdf09d0fd606917665df17
