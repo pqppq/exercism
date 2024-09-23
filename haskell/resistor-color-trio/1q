@@ -1,0 +1,16 @@
+module RunLength (decode, encode) where
+
+decode :: String -> String
+decode encodedText = error "You need to implement this function."
+
+encode :: String -> String
+encode text = ""
+
+count :: Char -> String -> Int
+count c s = length $ takeWhile (== c) s
+
+skip :: Char -> String -> String
+skip c s = dropWhile (== c) s
+
+scan :: String -> [(Char, Int)]
+scan str@(s : sx) = [(s, count s str)] : scan (skip s sx)
